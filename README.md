@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Franklin David 👋
 
-<!--
-**Zhunhmaybe/Zhunhmaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
+- 🎓 Estudiante de Ingeniería de Software | Entusiasta de la Ciberseguridad & Cloud
+- 💡 Construyendo aplicaciones web, APIs y entornos de laboratorio seguros
+- 📫 Contacto: davidramoz132@gmail.com
+- 🌐 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/franklin-david-ramos-martinez-4a0ba7326?utm_source=share_via&utm_content=profile&utm_medium=member_android)) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+**Backend & Web:** Laravel, ASP.NET Core, FastAPI, Express.js, Spring Boot, Angular  
+**Bases de Datos:** PostgreSQL, Oracle, MySQL, Supabase  
+**DevOps & Cloud:** Docker, AWS, Linux (Fedora / Kali), Git  
+**Seguridad & Redes:** Pentesting, Análisis de redes, CTF Labs  
+
+---
+
+### 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zhunhmaybe&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhunhmaybe&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</p>
