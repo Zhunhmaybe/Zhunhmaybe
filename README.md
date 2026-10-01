@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Franklin David Ramos 👋</h1>
+<h1 align="center">Hola , soy Franklin David </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,8 +23,8 @@
 - 🎓 Estudiante de Ingeniería de Software
 - 🛡️ **Presidente del Club de Ethical Hacking**: organizo charlas, CTFs y talleres prácticos
 - 🚀 Construyendo aplicaciones web, APIs y entornos de laboratorio seguros
-- 🎯 Actualmente trabajando en: _(proyecto grande de ciberseguridad)_
-- 📚 Aprendiendo: _(Pentesting avanzado, Kubernetes, etc.)_
+- 🎯 Actualmente trabajando en: Proyectos de seguridad 
+- 📚 Aprendiendo: Pentesting avanzado, Kubernetes, Desarrollo de escenarios 3D
 
 ## 🛠️ Stack Tecnológico
 **Backend & Web**<br>
