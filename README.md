@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Franklin David Ramos 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A1&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+de+Software;Presidente+del+Club+de+Ethical+Hacking;Ciberseguridad+%7C+Cloud+%7C+Backend;Construyendo+laboratorios+seguros+%F0%9F%94%90" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A1&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Presidente+del+Club+de+Ethical+Hacking;Ciberseguridad+%7C+Cloud+%7C+Backend" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -57,7 +59,13 @@
 
 ## 🏆 Trofeos
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zhunhmaybe&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zhunhmaybe&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositorios-25%2B-00f7a1?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Club-Ethical%20Hacking-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contribuciones-190%2B-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
